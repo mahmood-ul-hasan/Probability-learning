@@ -1,5 +1,5 @@
 # Probability-learning
-
+The "Probability-learning task" involves working with MATLAB scripts to understand and analyze probability distributions. These scripts cover tasks such as statistical analysis, visualization, and modeling. They provide hands-on experience in generating datasets, computing probability density functions, and visualizing distributions. Through these exercises, learners gain insight into statistical concepts and techniques, enhancing their understanding of probability theory and data analysis using MATLAB.
 
 
 # statistical_analyses.m
